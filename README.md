@@ -86,5 +86,5 @@ Although DenseNet121 produced the highest accuracy, MobileNetV3 provides the bes
 ## Project By
 
 1. Myra Jasmeen Daniella Binti Bakar Jamili
-2. Muhammad Iskandar
+2. Muhammad Bin Iskandar
 
